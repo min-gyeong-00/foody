@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="foody" target="11" />
       <module name="Foody.foody" target="11" />
     </bytecodeTargetLevel>
   </component>
